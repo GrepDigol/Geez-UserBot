@@ -60,7 +60,7 @@
 *   [AvinashReddy3108](https://github.com/AvinashReddy3108)    PaperplaneExtended
 *   [TeamUserge](https://github.com/UsergeTeam/Userge)    Userge
 *   [sandy1709](https://github.com/sandy1709/catuserbot)    CatUserbot
-*   DAN TERIMAKASIH BANYAK KEPADA USERBOT INDONESIA LAINNYA🙏
+*   DAN TERIMA KASIH BANYAK KEPADA USERBOT INDONESIA LAINNYA🙏
 
 
 ## Stay Support 🚀
