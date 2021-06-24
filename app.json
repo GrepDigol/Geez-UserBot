@@ -171,8 +171,8 @@
       "description": "Nama untuk menunjukan pesan .alive",
       "required": false
     },
-    "GREP_TEKS_KUSTOM": {
-      "description": "Kustom Pesan Alive Mu Untuk Perintah .grepalive (isi terserah)",
+    "GEEZ_TEKS_KUSTOM": {
+      "description": "Kustom Pesan Alive Mu Untuk Perintah .geezalive (isi terserah)",
       "required": false
     },
     "S_PACK_NAME": {
