@@ -1,6 +1,6 @@
 {
-  "name": "⚡𝗚𝗲𝗲𝘇 𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡",
-  "description": "🚫Geez-UserBot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "☠️𝗚𝗿𝗲𝗽 𝙐𝙨𝙚𝙧𝘽𝙤𝙩☠️",
+  "description": "🚫Grep-UserBot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "",
   "keywords": [
     "telegram",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Vckyou/Geez-UserBot",
-  "telegram": "https://t.me/VckyouuBitch",
+  "repository": "https://github.com/GrepDigol/Grep-UserBot",
+  "telegram": "https://t.me/MauMakanPizza",
   "success_url": "https://t.me/CariTemanRandom",
   "stack": "container",
   "env": {
@@ -23,20 +23,20 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @VckyouuBitch di telegram",
+      "description": "Dapatkan String Session di termux caranya ada di repo, jika tidak tau reponya tanya ke @MauMakanPizza di telegram",
       "required": true
     },
     "HEROKU_APP_NAME": {
-      "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
+      "description": "Nama app Heroku, nama app yang paling pertama di isi (liat paling atas)",
       "required": true
     },
     "HEROKU_API_KEY": {
-      "description": "Heroku API KEY mu, dapatkan dari web 'https://dashboard.heroku.com/account'",
-      "value": "Check Di Heroku Dashboard Mu",
+      "description": "Heroku API KEY-mu, dapatkan dari web 'https://dashboard.heroku.com/account'",
+      "value": "Check di  dashboard Heroku-mu",
       "required": true
     },
     "BOTLOG": {
-      "description": "Kalo Mau Off in BOTLOG Ganti False",
+      "description": "Kalo mau off-in BOTLOG ganti False",
       "value": "True",
       "required": true
     },
@@ -46,7 +46,7 @@
       "required": true
     },
     "G_BAN_LOGGER_GROUP": {
-      "description": "Buatlah Sebuah Grup Publik Lalu Masukkan Bot @MissRose_Bot Ke Grup Mu, Setelah itu Ketik /id. Nanti akan muncul ID seperti ini Contoh : -1001234567890",
+      "description": "Buatlah sebuah grup publik lalu masukkan bot @MissRose_Bot ke grupmu, setelah itu ketik /id. Nanti akan muncul ID seperti ini Contoh : -1001234567890",
       "value": "Isi ID Grup Anda, Contoh -1001234567890",
       "required": true
     },
@@ -55,7 +55,7 @@
       "value": "False"
     },
     "QUOTES_API_TOKEN": {
-      "description": "Dapatkan Token Dari http://antiddos.systems",
+      "description": "Dapatkan token dari http://antiddos.systems",
       "required": false
     },
     "GENIUS_ACCESS_TOKEN": {
@@ -63,7 +63,7 @@
       "required": false
     },
     "MONGO_URI": {
-      "description": "Your MongoDB Atlas URL, Get your guide from https://telegra.ph/Mongo-DB-12-24.",
+      "description": "Your MongoDB Atlas URL, get your guide from https://telegra.ph/Mongo-DB-12-24.",
       "required": false
     },
     "GENIUS": {
@@ -79,17 +79,17 @@
       "required": false
     },
     "COUNTRY": {
-      "description": "Set your Country to be used in the .time and .date commands.",
+      "description": "Set your country to be used in the .time and .date commands.",
       "value": "ID",
       "required": true
     },
     "TZ_NUMBER": {
-      "description": "Change this value in case your country has multiple Time Zones.",
+      "description": "Change this value in case your country has multiple time zones.",
       "value": "1",
       "required": false
     },
     "OPEN_WEATHER_MAP_APPID": {
-      "description": "Get your own APPID (API key)from https://api.openweathermap.org/data/2.5/weather",
+      "description": "Get your own APPID (API key) from https://home.openweathermap.org/api_keys",
       "required": false
     },
     "PM_AUTO_BAN": {
@@ -163,7 +163,7 @@
       "required": false
     },
     "DEFAULT_BIO": {
-      "description": "Default Bio Mu.",
+      "description": "Default bio-mu.",
       "value": "unknown",
       "required": false
     },
@@ -171,12 +171,12 @@
       "description": "Nama untuk menunjukan pesan .alive",
       "required": false
     },
-    "GEEZ_TEKS_KUSTOM": {
-      "description": "Kustom Pesan Alive Mu Untuk Perintah .geezalive (Isi Terserah)",
+    "GREP_TEKS_KUSTOM": {
+      "description": "Kustom Pesan Alive Mu Untuk Perintah .grepalive (isi terserah)",
       "required": false
     },
     "S_PACK_NAME": {
-      "description": "Nama Sticker Pack Mu",
+      "description": "Nama paket stikermu",
       "required": false
     },
     "G_DRIVE_DATA": {
@@ -197,7 +197,7 @@
       "required": false
     },
     "UB_BLACK_LIST_CHAT": {
-      "description": "Isi Apa Aja",
+      "description": "Isi apa aja",
       "required": false
     },
     "LYDIA_API_KEY": {
@@ -206,7 +206,7 @@
     },
     "WEATHER_DEFCITY": {
       "description": "Set the default city for the userbot's weather module.",
-      "value": "Tangerang",
+      "value": "Jakarta",
       "required": false
     },
     "WOLFRAM_ID": {
